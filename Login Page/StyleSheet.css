@@ -1,0 +1,18 @@
+﻿body {
+}
+
+#header {
+    background-color:navy;
+    color:white;
+    border-bottom:solid 5px red;
+    text-align:center;
+}
+
+h1 {
+    font-family:Broadway;
+    font-size:200%;
+}
+
+.error {
+    color:red;
+}
